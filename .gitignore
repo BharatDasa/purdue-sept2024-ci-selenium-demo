@@ -34,3 +34,6 @@ build/
 
 ### TestNG ###
 test-output/
+
+### Allure ###
+allure-results/
